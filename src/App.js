@@ -18,7 +18,6 @@ function App() {
         <Route path="/contact" exact component={ContactUs} />
         <Route path="/feedback" exact component={Feedback} />
         <Route path="/group-registration" exact component={RegistrationGroup} />
-       
       </Router>
     </div>
   );
